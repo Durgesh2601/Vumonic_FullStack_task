@@ -1,0 +1,28 @@
+{
+  "name": "vumonic_fullstack_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Durgesh2601/Vumonic_FullStack_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Durgesh2601/Vumonic_FullStack_task/issues"
+  },
+  "homepage": "https://github.com/Durgesh2601/Vumonic_FullStack_task#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "imap": "^0.8.19",
+    "mailparser": "^3.4.0",
+    "mongoose": "^6.2.7",
+    "nodemon": "^2.0.15"
+  }
+}
